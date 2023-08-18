@@ -1,2 +1,1 @@
-# drawio-shapes
-Common shape libraries for Drawio
+# DGTL's Draw.io Shape Libraries
